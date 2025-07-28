@@ -10,4 +10,5 @@ https://guidgenerator.com/ #for replacing REPLACE-GUID-HERE**
 after that **DO NOT OPEN THEM** goto cmd.exe or command prompt then type md c:\src\<your folder name> #<- replace with actual folder name of what you want
 then type in cd c:\src\<your folder name> #<- replace with actual folder name of using md
 then with all the files adjusted and made to your preferences in the same cmd window type in dotnet build
-you should see a loading screen then if it works it should say its completed
+you should see a loading screen then if it works it should say its completed like this
+![Completed_cmd_window](./assets/cmd.png)
